@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+#This is a quick note to test push request
 
 print("Put some skills that you don't have")
 unfamiliar_skills = input('>')
