@@ -1,5 +1,4 @@
 #built in sublime
-#this is a test
 from bs4 import BeautifulSoup
 import requests
 import time
