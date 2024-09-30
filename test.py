@@ -1,4 +1,5 @@
 #built in sublime
+#Adding this line to test out the get pull function on the commandline
 from bs4 import BeautifulSoup
 import requests
 import time
